@@ -28,6 +28,9 @@ A skill package exposes:
   format, validating the model.
 - `Panniantong/Agent-Reach` — multi-platform scraping packaged as one
   skill-shaped CLI.
+- `Graphify-Labs/graphify` (1,851 ⭐/day, July 2026) — "agent adapter" layer
+  that wraps Claude Code, Codex, OpenCode, Cursor, and Gemini CLI under one
+  skill interface. Explicitly demonstrates the cross-runtime portability thesis.
 - Hermes Agent's own skill system (`~/.hermes/skills/SKILL.md`) follows the
   same contract.
 
